@@ -1,0 +1,37 @@
+[ru]
+BULLET_TRACE_MENU_TITLE = Меню трассирующих пуль
+
+BULLET_TRACE_MENU_ITEM_1 = Трассирующие пули
+BULLET_TRACE_MENU_ITEM_1_ON = \yВключены
+BULLET_TRACE_MENU_ITEM_1_OFF = \rВыключены
+
+BULLET_TRACE_MENU_ITEM_2 = Применение к оружию
+
+BULLET_TRACE_MENU_ITEM_3 = Положение пуль
+BULLET_TRACE_MENU_ITEM_3_TYPE_1 = Последние пули
+BULLET_TRACE_MENU_ITEM_3_TYPE_2 = За несколько до конца 
+BULLET_TRACE_MENU_ITEM_3_TYPE_3 = Середина
+
+BULLET_TRACE_MENU_ITEM_4 = Кол-во трассирующих снарядов
+
+BULLET_TRACE_MENU_ITEM_5 = Кол-во пуль до конца обоймы
+
+BULLET_TRACE_MENU_EXIT = Выход
+
+
+BULLET_TRACE_CHAT_PREFIX = ^1[^4Трассировка^1]
+BULLET_TRACE_CHAT_ENABLE = Вы включили трассировку пуль
+BULLET_TRACE_CHAT_DISABLE = Вы выключили трассировку пуль 
+
+
+APPLICATION_TO_WEAPON_MENU_TITLE = Применить настройки к оружиям
+
+APPLICATION_TO_WEAPON_MENU_ITEM_1 = Пистолетам
+APPLICATION_TO_WEAPON_MENU_ITEM_2 = Автоматам
+APPLICATION_TO_WEAPON_MENU_ITEM_3 = Винтовкам
+APPLICATION_TO_WEAPON_MENU_ITEM_4 = Снайперским винтовкам
+APPLICATION_TO_WEAPON_MENU_ITEM_5 = Пулемету
+APPLICATION_TO_WEAPON_MENU_ITEM_6 = Ко всему оружию
+APPLICATION_TO_WEAPON_MENU_ITEM_7 = Вернуться к настройкам
+
+APPLICATION_TO_WEAPON_MENU_EXIT = Выход
